@@ -1,0 +1,8 @@
+== SQLite to MySQL conversion script
+
+This script takes a .sqlite3 database and it converts it to a .sql file compatible with MySQL
+
+== Description
+
+This is an open source project because it could evolve. So far, it only worked for me. Maybe someone else will find it useful.
+
